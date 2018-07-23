@@ -1,0 +1,7 @@
+C:\Users\Svetlana\Desktop\Диплом\RQ\RQ\RQ\obj\x86\Release\RQ.Form1.resources
+C:\Users\Svetlana\Desktop\Диплом\RQ\RQ\RQ\obj\x86\Release\RQ.Properties.Resources.resources
+C:\Users\Svetlana\Desktop\Диплом\RQ\RQ\RQ\obj\x86\Release\RQ.csproj.GenerateResource.Cache
+C:\Users\Svetlana\Desktop\Прога2\RQ\RQ\obj\x86\Release\RQ.csprojResolveAssemblyReference.cache
+C:\Users\Svetlana\Desktop\Прога2\RQ\RQ\obj\x86\Release\RQ.Form1.resources
+C:\Users\Svetlana\Desktop\Прога2\RQ\RQ\obj\x86\Release\RQ.Properties.Resources.resources
+C:\Users\Svetlana\Desktop\Прога2\RQ\RQ\obj\x86\Release\RQ.csproj.GenerateResource.Cache
